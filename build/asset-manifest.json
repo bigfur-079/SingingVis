@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.01884803.css",
+    "main.js": "./static/js/main.fecdd1ec.js",
+    "static/js/453.5c4a2e99.chunk.js": "./static/js/453.5c4a2e99.chunk.js",
+    "static/media/logo.svg": "./static/media/logo.c8a42f3b9409e8242f7bd9ec62656432.svg",
+    "static/media/question.png": "./static/media/question.a97e45146636971d8892.png",
+    "static/media/link_icon.svg": "./static/media/link_icon.d8a0fef52dc3f34811dcbbf394ff58ee.svg",
+    "static/media/pitch_up.svg": "./static/media/pitch_up.1a9b660b2f525bfcb04a1b2a832f0b63.svg",
+    "static/media/pitch_down.svg": "./static/media/pitch_down.7a97266ab9313088d57e85ee1137777c.svg",
+    "index.html": "./index.html",
+    "static/media/music.svg": "./static/media/music.a17dfbff5f843b6e2273e9728324954c.svg",
+    "static/media/sidebar_btn.svg": "./static/media/sidebar_btn.6294ab11dd6431d808a79d1cdb098635.svg",
+    "static/media/upload.svg": "./static/media/upload.17bcce42c716675bc8cfc12fc1cc6122.svg",
+    "static/media/lyric_icon.svg": "./static/media/lyric_icon.20b3056292fcd70983df03c172493300.svg",
+    "static/media/select_down.svg": "./static/media/select_down.16b8c7f4b61efbe1306bc3c72475b1fc.svg",
+    "main.01884803.css.map": "./static/css/main.01884803.css.map",
+    "main.fecdd1ec.js.map": "./static/js/main.fecdd1ec.js.map",
+    "453.5c4a2e99.chunk.js.map": "./static/js/453.5c4a2e99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01884803.css",
+    "static/js/main.fecdd1ec.js"
+  ]
+}
