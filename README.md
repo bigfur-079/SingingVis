@@ -52,7 +52,7 @@ WantedBy=multi-user.target
 ProxyPass /api http://127.0.0.1:5000/api
 ProxyPassReverse /api http://127.0.0.1:5000/api
 ProxyTimeout 600
-<Directory /var/www/html/SingingVis>
+<Directory /var/www/html/SingingVis/build>
     Options Indexes FollowSymLinks
     AllowOverride All
     Require all granted
@@ -64,3 +64,6 @@ ProxyTimeout 600
 ```sudo a2enmod ssl``` <br>
 ```sudo a2ensite default-ssl``` <br>
 ```sudo systemctl restart apache2```
+
+### 其他設定
+在 /var/www/html/SingingVis 新增一個資料夾 ```upload_audio```
