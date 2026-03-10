@@ -663,7 +663,7 @@ def download_audio(url, filename, output_path):
 
     ydl_opts = {
         'format': 'bestaudio/best',
-        'ffmpeg_location': '/opt/homebrew/bin/ffmpeg',
+        'ffmpeg_location': '/usr/bin/ffmpeg',
         'outtmpl': outtmpl_path, # <--- 這裡改用自訂的路徑和檔名
         'postprocessors': [{
             'key': 'FFmpegExtractAudio',
