@@ -694,7 +694,7 @@ def demucsAudio(path, mp3_file):
         # --two-stems=vocals 代表只拆成 人聲 + 伴奏
         subprocess.run([
             sys.executable, "-m", "demucs",  # 👈 使用 python -m demucs 啟動
-            "--device", "cpu",               # ubuntu 用 cpu
+            "--device", "gpu",               # ubuntu 用 cpu 或 gpu
             "--two-stems", "vocals", 
             "-o", path, 
             input_path
