@@ -69,6 +69,6 @@ ProxyTimeout 600
 在 /var/www/html/SingingVis 新增一個資料夾 ```upload_audio```
 
 ### 錯誤訊息
-如果 youtube 下載出現錯誤，輸入以下指令
-```pip install --upgrade pip```
-```pip install --upgrade yt-dlp```
+如果 youtube 下載出現錯誤，輸入以下指令 <br>
+```pip install --upgrade pip``` <br>
+```pip install --upgrade yt-dlp``` <br>
